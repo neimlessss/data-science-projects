@@ -15,7 +15,7 @@ Each project is built around a real-world dataset and delivers actionable insigh
 ## Projects
 
 ### 📊 Titanic Survival Analysis & Prediction
-**Folder:** `Titanic EDA/`
+**Folder:** [Titanic EDA](./Titanic%20EDA/)
 
 Performed end-to-end exploratory data analysis on the Titanic passenger dataset,
 uncovering survival patterns across gender, age, and passenger class.
@@ -31,7 +31,7 @@ Also built a machine learning model to predict survival outcomes.
 ---
 
 ### 📈 Retail Store Sales Dashboard
-**Folder:** `Retail Sales Analysis/`
+**Folder:** [Retail Sales Analysis](./Retail%20Sales%20Analysis/)
 
 Analysed multi-year retail sales data to extract business insights on product
 performance, regional profitability, and seasonal trends.
