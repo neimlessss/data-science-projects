@@ -5,7 +5,7 @@ This repository is actively maintained and updated as new projects are completed
 
 ---
 
-## About
+## Overview
 These projects cover the core pillars of Data Science — data exploration,
 cleaning, visualisation, statistical analysis, and predictive modelling.
 Each project is built around a real-world dataset and delivers actionable insights.
